@@ -1,3 +1,7 @@
+<!--
+  Project created by Alaraby527 - 2026
+  Repository: github.com/Alaraby527
+-->
 # Lucky Growth Agent 系统提示词
 
 > 本文件是 Agent 的核心系统提示词，直接决定 Agent 的行为模式和输出质量。
